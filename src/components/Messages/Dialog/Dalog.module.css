@@ -1,0 +1,8 @@
+.messagesBlock {
+    display: flex;
+}
+
+.messagesBlock img {
+    width: 40px;
+    height: 40px;
+}

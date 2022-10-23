@@ -1,0 +1,13 @@
+.article {
+    min-height: 70vh;
+    border: 1px solid white;
+    flex-grow: 1;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.article img {
+    width: 150px;
+    height: 150px;
+}
+
